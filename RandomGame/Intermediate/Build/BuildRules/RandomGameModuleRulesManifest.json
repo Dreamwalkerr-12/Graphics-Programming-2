@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\Unreal Repos\\VGP221\\Graphics-Programming-2\\RandomGame\\Source\\RandomGame\\RandomGame.Build.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\Unreal Repos\\VGP221\\Graphics-Programming-2\\RandomGame\\Source\\RandomGame.Target.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\Unreal Repos\\VGP221\\Graphics-Programming-2\\RandomGame\\Source\\RandomGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.1"
+}

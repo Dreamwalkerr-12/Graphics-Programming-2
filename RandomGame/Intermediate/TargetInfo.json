@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RandomGame",
+			"Path": "..\\Source\\RandomGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RandomGameEditor",
+			"Path": "..\\Source\\RandomGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

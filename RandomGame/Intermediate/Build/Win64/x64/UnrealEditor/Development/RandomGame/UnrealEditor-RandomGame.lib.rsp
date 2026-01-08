@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RandomGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/ethan/Documents/Unreal Projects/Unreal Repos/VGP221/Graphics-Programming-2/RandomGame/Intermediate/Build/Win64/x64/RandomGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/ethan/Documents/Unreal Projects/Unreal Repos/VGP221/Graphics-Programming-2/RandomGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/RandomGame/RandomGame.cpp.obj"
+"C:/Users/ethan/Documents/Unreal Projects/Unreal Repos/VGP221/Graphics-Programming-2/RandomGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/RandomGame/PerModuleInline.gen.cpp.obj"
+"C:/Users/ethan/Documents/Unreal Projects/Unreal Repos/VGP221/Graphics-Programming-2/RandomGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/RandomGame/Default.rc2.res"
+/OUT:"C:/Users/ethan/Documents/Unreal Projects/Unreal Repos/VGP221/Graphics-Programming-2/RandomGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/RandomGame/UnrealEditor-RandomGame.lib"

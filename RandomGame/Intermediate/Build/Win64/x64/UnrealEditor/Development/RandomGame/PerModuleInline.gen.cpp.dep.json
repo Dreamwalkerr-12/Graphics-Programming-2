@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ethan\\documents\\unreal projects\\unreal repos\\vgp221\\graphics-programming-2\\randomgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\randomgame\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ethan\\documents\\unreal projects\\unreal repos\\vgp221\\graphics-programming-2\\randomgame\\intermediate\\build\\win64\\x64\\randomgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ethan\\documents\\unreal projects\\unreal repos\\vgp221\\graphics-programming-2\\randomgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\randomgame\\definitions.randomgame.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
